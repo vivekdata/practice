@@ -1,0 +1,4 @@
+export JAVA_HOME=/home/viveknew/devops/maven/jdk1.8.0_191
+export M2_HOME=/home/viveknew/devops/maven/apache-maven-3.6.0
+
+export PATH=$JAVA_HOME/bin:$M2_HOME/bin:$PATH
